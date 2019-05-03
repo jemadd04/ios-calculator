@@ -1,0 +1,9 @@
+1. Create HTML
+  a. Link CSS
+  b. Create DIV for output screen
+  c. Create rows for buttons
+2. Create CSS
+  a. Keep accessibility in mind
+3. Create JS
+  a. Create variables
+  b. Bind event listener
